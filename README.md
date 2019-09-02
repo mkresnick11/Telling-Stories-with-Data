@@ -4,7 +4,7 @@ Hi! My name is Melanie Resnick and I'm a first year Heinz student in the Emterta
 
 # What I Hope to Learn
 
-I want to learn how to present data in a compelling and engaging way. 
+I want to learn how to present data in a compelling, engaging and ultimately persuasive way. 
 
 # Portfolio
 
