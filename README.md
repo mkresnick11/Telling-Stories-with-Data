@@ -44,6 +44,11 @@ My thoughts after the critique were that I wanted to be careful in my use of col
 I first thought about making a line graph with all countries other than the G7 countries would be grey. This, though, felt too busy when I included all the countries in the dataset. So, I thought about ways to make the visualization simpler. I decided to instead look at percent change of women’s participation in the workforce as I think this is a simpler and clearer way to visually show changes over time for a large group of observations. The data had lots gaps up until 2000, so I decided to start from there. Although this visualization will not show a decades long trend, I thought it was better to compare countries over the same time frame. sketched a single line dot plot of only the countries in descending order by the countries labour-force participation rate for women. Several people found this confusing and that the graph did not do a good job of visualizing the negative and positive numbers. I ultimately settled on a bar chart. I thought this chart did a good of showing both that the US was in the minority and that it has a negative labour-force participation rate. I also liked that the labels for countries with a positive percent change is above the bar and the ones with negative percent changes have labels below the bar. I think this reinforce the contrast between positive and negative percent change. Since I have over 30 countries on the chart, I made countries other than the G7 grey. I bolded the US so that it would be what a viewer sees first. 
 
 
+**Less American Women Work Today than in 2000**
+**The United States is the only G7 country that has gone backwards on this measure**
+
+![Chart Redesign](/Users/melanie/Desktop/CMU/Telling Stories with Data/Workforce .png)
+
 
 
 
