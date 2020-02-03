@@ -34,3 +34,18 @@ When I first looked at this data set, it was hard make sense of because there ar
 
 The data for the OECD visualizations is from: OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2020)
 
+
+**Redesign of Economist Data Visualization** 
+
+The visualization I chose can be found at: I chose my visualization because I thought it was striking that the US was the only G7 country to have a decrease in its labour-force for women. I think that this simple visualization is a good starting point to talk about other issues that could be behind this trend. The article explores what could be behind this and discusses topics like equal pay, maternity leave and accessible and affordable childcare. 
+
+My thoughts after the critique were that I wanted to be careful in my use of color. I also wanted to find a way to visually show what stood out to me about the data. The first pointed I wanted to highlight was that US is part of a very small group of countries that has regressed on women’s participation in the workforce. The majorities of countries in the dataset have improved. I also wanted to visually show that the US decreasing along this metric. I also wanted to find a way to highlight both the US and the G7 countries. 
+
+I first thought about making a line graph with all countries other than the G7 countries would be grey. This, though, felt too busy when I included all the countries in the dataset. So, I thought about ways to make the visualization simpler. I decided to instead look at percent change of women’s participation in the workforce as I think this is a simpler and clearer way to visually show changes over time for a large group of observations. The data had lots gaps up until 2000, so I decided to start from there. Although this visualization will not show a decades long trend, I thought it was better to compare countries over the same time frame. sketched a single line dot plot of only the countries in descending order by the countries labour-force participation rate for women. Several people found this confusing and that the graph did not do a good job of visualizing the negative and positive numbers. I ultimately settled on a bar chart. I thought this chart did a good of showing both that the US was in the minority and that it has a negative labour-force participation rate. I also liked that the labels for countries with a positive percent change is above the bar and the ones with negative percent changes have labels below the bar. I think this reinforce the contrast between positive and negative percent change. Since I have over 30 countries on the chart, I made countries other than the G7 grey. I bolded the US so that it would be what a viewer sees first. 
+
+
+
+
+
+
+
