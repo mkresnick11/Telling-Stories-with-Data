@@ -47,7 +47,7 @@ I first thought about making a line graph with all countries other than the G7 c
 **Less American Women Work Today than in 2000**
 **The United States is the only G7 country that has gone backwards on this measure**
 
-![Chart Redesign](/Users/melanie/Test/Workforce.png)
+![Chart Redesign](https://github.com/mkresnick11/dataviz2.md/blob/master/Workforce.png)
 
 
 
