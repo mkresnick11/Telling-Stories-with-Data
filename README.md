@@ -35,7 +35,7 @@ When I first looked at this data set, it was hard make sense of because there ar
 The data for the OECD visualizations is from: OECD (2020), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 26 January 2020)
 
 
-# Data Visualization Redesign Redesign of Economist Data Visualization
+# Data Visualization Redesign 
 
 **Selecting A Data Visualization**
 
