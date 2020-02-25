@@ -52,9 +52,15 @@ I first thought about making a line graph with all countries other than the G7 c
 
 **My Redesign**
 
-![Redesign](Screen Shot 2020-02-24 at 6.49.43 PM.png)
+![Redesign](Screen Shot 2020-02-24 at 5.37.29 PM.png) 
 
-https://github.com/mkresnick11/dataviz2/edit/master/Final_Project_Part_2.md
+**To see the process behind my final project:**
+
+**To see my final project:**
+
+
+
+ttps://github.com/mkresnick11/dataviz2/edit/master/Final_Project_Part_2.md
 
 Final Project Part 1: https://github.com/mkresnick11/dataviz2/blob/master/Final%20Project%20Outline.md
 
